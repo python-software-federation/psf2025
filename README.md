@@ -4,6 +4,13 @@ Info material for the "Python Software Federation" campaign for the 2025 PSF (Py
 
 **Vote Federation to distribute legal and technological assets to a federation of independent Python organisations across the world!**
 
+### Video explainer
+
+* [Who we are](https://youtu.be/KGtXXOpADpc)
+* [Problem: PSF is too centralized](https://youtu.be/eZnotvEY_N4)
+* [Approach: A world of equals - sharing power](https://youtu.be/4G9bCWjzHX4)
+* [Vision: The Python Software Federation](https://youtu.be/7IdaOSPSoBM)
+
 ## Election Guide 2025
 
 (a 3rd party guide, by the "Federation" campaign - [official information is here](https://groups.google.com/g/pvlib-python/c/-JwgK-o8I3Q))
@@ -21,11 +28,11 @@ Info material for the "Python Software Federation" campaign for the 2025 PSF (Py
 **Deadline for registration: Aug 26, 14 UTC** ([official schedule here](https://groups.google.com/g/pvlib-python/c/-JwgK-o8I3Q)]
 
 1. ensure you are registered PSF by August 26
-    * if not, quickest is [supporting membership](https://www.python.org/psf/membership/), this costs 99 dollar
+    * option 1: [contributing membership](https://www.python.org/psf/membership/) is self-certified, PSF approval may take time
+    * option 2: quicker is [supporting membership](https://www.python.org/psf/membership/), this costs 99 dollar
         * opinion: this is a gatekeeping mechanism! The fee must be reduced.
-    * alternative: [contributing membership](https://www.python.org/psf/membership/) is self-certified, the PSF might not process this in time
 
-2. ensure you have filled out the ["voting affirmation form"](https://psfmember.org/civicrm/votingaffirmation/) by August 26, 14 UTC
+3. ensure you have filled out the ["voting affirmation form"](https://psfmember.org/civicrm/votingaffirmation/) by August 26, 14 UTC
 
 **Deadline for voting: September 16, 14 UTC** (opens Sep 2)
 
