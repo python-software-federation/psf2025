@@ -32,7 +32,7 @@ Info material for the "Python Software Federation" campaign for the 2025 PSF (Py
     * option 2: quicker is [supporting membership](https://www.python.org/psf/membership/), this costs 99 dollar
         * opinion: this is a gatekeeping mechanism! The fee must be reduced.
 
-3. ensure you have filled out the ["voting affirmation form"](https://psfmember.org/civicrm/votingaffirmation/) by August 26, 14 UTC
+2. ensure you have filled out the ["voting affirmation form"](https://psfmember.org/civicrm/votingaffirmation/) by August 26, 14 UTC
 
 **Deadline for voting: September 16, 14 UTC** (opens Sep 2)
 
@@ -48,7 +48,7 @@ Recommended candidates:
 * Agata Skamruk
 * Arjun Suresh
 
-5. optionally: let us know you voted!
+4. optionally: let us know you voted!
 
 ## Election Programme
 
