@@ -36,11 +36,19 @@ Info material for the "Python Software Federation" campaign for the 2025 PSF (Py
 
 **Deadline for voting: September 16, 14 UTC** (opens Sep 2)
 
-Information on this will be (hopefully) published by PSF in due time.
+3. vote
 
-3. vote (instructions to be added)
+* after successful registration, you should receive an e-mail from PSF to vote
+* IMPORTANT: if you have not received this by Sep 2, check your spam folder
 
-4. optionally: let us know you voted! And join the Python Software Federation movement (our form to be added here)
+Recommended candidates:
+
+* Franz Kiraly
+* Abigail Dogbe
+* Agata Skamruk
+* Arjun Suresh
+
+5. optionally: let us know you voted!
 
 ## Election Programme
 
